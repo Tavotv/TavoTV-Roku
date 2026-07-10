@@ -8,6 +8,25 @@
 
 **TavoTV** es un reproductor IPTV elegante y potente para dispositivos Roku, diseñado para ofrecer la mejor experiencia de streaming compatible con listas M3U y cuentas de Xtream Codes.
 
+### 📸 Capturas de Pantalla / Screenshots
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tavotv/TavoTV-Roku/main/imagen/TAVOTV-V2.png" width="400" alt="TavoTV Logo/Main">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tavotv/TavoTV-Roku/main/imagen/dev%20(1).png" width="280">
+  <img src="https://raw.githubusercontent.com/Tavotv/TavoTV-Roku/main/imagen/dev%20(11).png" width="280">
+  <img src="https://raw.githubusercontent.com/Tavotv/TavoTV-Roku/main/imagen/dev%20(3).png" width="280">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tavotv/TavoTV-Roku/main/imagen/dev%20(4).png" width="280">
+  <img src="https://raw.githubusercontent.com/Tavotv/TavoTV-Roku/main/imagen/dev%20(5).png" width="280">
+  <img src="https://raw.githubusercontent.com/Tavotv/TavoTV-Roku/main/imagen/dev%20(9).png" width="280">
+</p>
+
+---
+
 ### 💬 Comunidad, Contraseñas y Soporte
 * **Solicita tu acceso:** Para activar la aplicación y obtener tus credenciales, únete a nuestra comunidad oficial y solicita tu contraseña por mensaje privado al administrador.
 * **Grupo de Telegram:** [👉 Únete al Grupo de Telegram aquí 👈](https://t.me/TavoTV_Roku)
