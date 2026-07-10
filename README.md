@@ -27,8 +27,9 @@
 
 ---
 
-### 💬 Comunidad, Contraseñas y Soporte
-* **Solicita tu acceso:** Para activar la aplicación y obtener tus credenciales, únete a nuestra comunidad oficial y solicita tu contraseña por mensaje privado al administrador.
+### 💬 Comunidad, Contraseñas y Soporte (100% Gratis)
+* **Contraseña Gratuita:** La aplicación es **100% gratuita**. El uso de una contraseña es únicamente una medida de seguridad para proteger el código encriptado y evitar que terceros revendan o abusen de la aplicación.
+* **Solicita tu acceso:** Únete a nuestro grupo oficial y solicita tu contraseña de activación sin costo alguno por mensaje privado al administrador.
 * **Grupo de Telegram:** [👉 Únete al Grupo de Telegram aquí 👈](https://t.me/TavoTV_Roku)
 
 ### 🚀 Características principales
@@ -51,8 +52,9 @@ Para instalar esta aplicación en tu dispositivo Roku de forma manual:
 
 **TavoTV** is a sleek and powerful IPTV player for Roku devices, designed to deliver the best streaming experience supporting M3U playlists and Xtream Codes accounts.
 
-### 💬 Community, Passwords & Support
-* **Request Access:** To activate the application and get your credentials, join our official community and request your password via private message to the administrator.
+### 💬 Community, Passwords & Support (100% Free)
+* **Free Password:** The application is **100% free**. The password requirement is strictly a security measure to protect the encrypted code and prevent third parties from reselling or abusing the app.
+* **Request Access:** Join our official community and request your activation password completely free of charge via private message to the administrator.
 * **Telegram Group:** [👉 Join Telegram Group Here 👈](https://t.me/TavoTV_Roku)
 
 ### 🚀 Key Features
